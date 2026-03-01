@@ -22,3 +22,17 @@ https://drive.google.com/file/d/1hoYmz1QCOqvOtuZ43I_MtgO6ROgCSADR/view?usp=drive
 - RAG (Retrieval-Augmented Generation)
 - Streamlit
 - HuggingFace
+
+## Github Repository Structure
+AI-Chatbot-YouTube-Transcript-QA/
+│
+├── Langchain_models/
+│   ├── chatbot.py              # Practiced chatbot implementation
+│   ├── chatbotui.py            # Streamlit-based UI for chatbot
+│
+├── RAG/
+│   ├── youtube_chatbot_app.py   # Main project file (YouTube transcript Q&A system)
+│
+├── .gitignore                  # Files and directories ignored by Git
+├── requirements.txt            # Project dependencies
+└── README.md                   # Project documentation
