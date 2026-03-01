@@ -24,9 +24,9 @@ https://drive.google.com/file/d/1hoYmz1QCOqvOtuZ43I_MtgO6ROgCSADR/view?usp=drive
 - HuggingFace
 
 ## Github Repository Structure
-AI-Chatbot-YouTube-Transcript-QA/
-│
-├── Langchain_models/
+AI-Chatbot-YouTube-Transcript-QA/  
+│  
+├── Langchain_models/  
 │   ├── chatbot.py              # Practiced chatbot implementation  
 │   ├── chatbotui.py            # Streamlit-based UI for chatbot  
 │  
